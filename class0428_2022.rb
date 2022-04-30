@@ -1,3 +1,10 @@
+first = "Andre"
+puts first[0]
+
+puts ("Letter #{first[0]} first alphabet letter ")
+
+puts ('Leter ' +first[0]+ ' first alphabet letter' )
+
 puts "just a integer number"
 1
 puts "=> to show a content needs puts command"
@@ -17,7 +24,6 @@ puts 1.2.class
 puts "=> These heritages are show after dot class dot superclass "
 puts 1.2.class.superclass
 
-
 puts ("====================================================================================")
 puts ("Copied from https://en.wikibooks.org/wiki/Ruby_Programming/Data_types")
 puts ("====================================================================================")
@@ -28,7 +34,7 @@ puts 1.class.superclass.superclass
 puts 4.3.class
 puts 4.3.class.superclass
 puts nil.class
-puts h.class
+#puts h.class
 puts :symbol.class
 puts [].class
 puts (1..8).class
