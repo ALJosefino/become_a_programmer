@@ -1,3 +1,7 @@
+a = "Andre"
+
+puts ("Variable content in letter a is:" + a)
+
 10.times{|i| puts i}
 
 puts ("\n################################")

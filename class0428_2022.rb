@@ -2,8 +2,11 @@ first = "Andre"
 puts first[0]
 
 puts ("Letter #{first[0]} first alphabet letter ")
+
 puts ("Above with double quotes to show string content")
+
 puts ('Leter ' +first[0]+ ' first alphabet letter' )
+
 puts ("Different from double quotations, now are simple quotation marks to show string content")
 
 puts "just a integer number"
