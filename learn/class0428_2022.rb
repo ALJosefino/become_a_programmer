@@ -33,6 +33,7 @@ puts 1.2.class.superclass
 puts ("====================================================================================")
 puts ("Copied from https://en.wikibooks.org/wiki/Ruby_Programming/Data_types")
 puts ("====================================================================================")
+h = {}
 puts "Stringy string McString!".class
 puts 1.class
 puts 1.class.superclass
@@ -40,7 +41,7 @@ puts 1.class.superclass.superclass
 puts 4.3.class
 puts 4.3.class.superclass
 puts nil.class
-#puts h.class
+puts h.class
 puts :symbol.class
 puts [].class
 puts (1..8).class
