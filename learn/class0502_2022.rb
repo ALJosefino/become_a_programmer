@@ -29,3 +29,6 @@ end
 test1 = gets.chomp.to_s
 
 puts test1
+
+x = 1
+@xis = 1
