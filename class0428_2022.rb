@@ -2,8 +2,9 @@ first = "Andre"
 puts first[0]
 
 puts ("Letter #{first[0]} first alphabet letter ")
-
+puts ("Above with double quotes to show string content")
 puts ('Leter ' +first[0]+ ' first alphabet letter' )
+puts ("Different from double quotations, now are simple quotation marks to show string content")
 
 puts "just a integer number"
 1
@@ -23,6 +24,8 @@ puts "=> These heritages are show after dot class dot superclass "
 puts 1.2.class
 puts "=> These heritages are show after dot class dot superclass "
 puts 1.2.class.superclass
+
+
 
 puts ("====================================================================================")
 puts ("Copied from https://en.wikibooks.org/wiki/Ruby_Programming/Data_types")
