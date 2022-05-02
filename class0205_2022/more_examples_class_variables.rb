@@ -13,7 +13,7 @@ class Test
     # a class variable
     @@a = 4
 
-# here you can access a global variable or a constant
+# here I can access a global variable or a constant
     def a
         # a constant
         A

@@ -2,7 +2,6 @@ require 'byebug'
 
 # A wrong way to do
 
-@@a = 1
 class Test
     @@a = 4
     def a
