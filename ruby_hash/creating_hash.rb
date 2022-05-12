@@ -1,1 +1,2 @@
-a = {nome:'Danilo', tel:3333}
+a = {name:'Andre', phone: 01234567}
+puts a[:name]
